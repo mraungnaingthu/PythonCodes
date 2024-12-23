@@ -9,7 +9,6 @@
 #         print(next(iter))
 # except StopIteration as e:
 #     print("Iteration finished")
-
 class Person:
     def __init__(self, name):
         self.name = name
