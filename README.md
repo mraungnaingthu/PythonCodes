@@ -1,1 +1,1 @@
-" dlul.py, huawei.py, mini.py, zdlul.py, zte.py were developed for the purpose of automating huawei & zte OLT Projects" 
+"The scripts dlul.py, huawei.py, mini.py, zdlul.py, and zte.py were developed to automate Huawei and ZTE OLT projects, streamlining processes and improving efficiency."
